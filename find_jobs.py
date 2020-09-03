@@ -3,7 +3,7 @@ import bs4
 from selenium import webdriver
 
 # Variables
-DRIVER_PATH = '/Users/gioele/Downloads/chromedriver'
+DRIVER_PATH = 'YOUR CHROME DRIVER PATH'
 URL = 'https://www.indeed.co.uk'
 JOB = input('What? (job title, keywords, company)\n')
 WHERE = input('Where? (city, postcode)\n')
